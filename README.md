@@ -24,4 +24,5 @@
 **Stats:**  
 
 ![arif mudi’s Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=arifmudi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+
 ![arif mudi’s Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arifmudi&layout=compact&theme=algolia)
