@@ -21,6 +21,11 @@
 
 - Laravel (PHP)
 
+**Publication**
+- Scholar : https://scholar.google.com/citations?user=CpQy0YMAAAAJ&hl=id&oi=ao
+- Scopus : https://www.scopus.com/authid/detail.uri?authorId=57215431668
+- Orcid : https://orcid.org/0000-0003-3500-3511
+
 **Stats:**  
 
 ![arif mudi’s Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=arifmudi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
