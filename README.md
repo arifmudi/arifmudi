@@ -21,6 +21,11 @@
 
 - Laravel (PHP)
 
+**Hasil Karya**
+- PPDB Darya Yuhda => http://ppdb.darmayudha.com
+- Litbang Darma Yuhda => http://litbang.darmayudha.com
+- Ilmu Data Indonesia Website  => https://ilmudata.co.id
+
 **Publication**
 - Scholar : https://scholar.google.com/citations?user=CpQy0YMAAAAJ&hl=id&oi=ao
 - Scopus : https://www.scopus.com/authid/detail.uri?authorId=57215431668
