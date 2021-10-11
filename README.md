@@ -13,7 +13,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am an employee in the research and development division at PT Darma Yudha Persada
+- 👨🏻‍💻 I am an employee in the research and development division at PT Darma Yudha Persada, Pekanbaru, Riau
 - 🌱 I'm currently learning Laravel, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
 
 
@@ -21,7 +21,7 @@
 
 - Laravel (PHP)
 
-**Hasil Karya**
+**Karya**
 - PPDB Darya Yuhda => http://ppdb.darmayudha.com
 - Litbang Darma Yuhda => http://litbang.darmayudha.com
 - Ilmu Data Indonesia Website  => https://ilmudata.co.id
