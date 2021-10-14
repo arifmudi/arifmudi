@@ -13,7 +13,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am an employee in the research and development division at PT Darma Yudha Persada, Pekanbaru, Riau
+- 👨🏻‍💻 I am an intern in the research and development division at PT Darma Yudha Persada, Pekanbaru, Riau
 - 🌱 I'm currently learning Laravel, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
 
 
