@@ -25,6 +25,7 @@
 - PPDB Darya Yuhda => http://ppdb.darmayudha.com
 - Litbang Darma Yuhda => http://litbang.darmayudha.com
 - Ilmu Data Indonesia Website  => https://ilmudata.co.id
+- PPDB SMK Negeri Kehutanan Pekanbaru => https://ppdb.smkkehutananpekanbaru.sch.id/
 
 **Publication**
 - Scholar : https://scholar.google.com/citations?user=CpQy0YMAAAAJ&hl=id&oi=ao
