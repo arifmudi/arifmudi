@@ -28,7 +28,7 @@
 - PPDB SMK Negeri Kehutanan Pekanbaru => https://ppdb.smkkehutananpekanbaru.sch.id/
 
 **Publication**
-- Scholar : https://scholar.google.com/citations?user=CpQy0YMAAAAJ&hl=id&oi=ao
+- Scholar : https://scholar.google.com/citations?hl=en&user=STETijEAAAAJ
 - Scopus : https://www.scopus.com/authid/detail.uri?authorId=57215431668
 - Orcid : https://orcid.org/0000-0003-3500-3511
 
