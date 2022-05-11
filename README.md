@@ -14,13 +14,14 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I am Lecturer at Universitas Pahlawan Tuanku Tambusai, Bangkinang, Riau, Indonesia
-- 🌱 I'm currently learning Laravel, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
+- 🌱 I'm currently learning Laravel, matlab, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
 
 
 **Languages and Frameworks:**  
 
 - Laravel (PHP)
 - Python
+- Matlab
 
 **Karya**
 - PPDB Darya Yuhda => http://ppdb.darmayudha.com
