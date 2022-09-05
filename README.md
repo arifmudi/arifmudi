@@ -27,7 +27,9 @@
 - PPDB Darya Yuhda => http://ppdb.darmayudha.com
 - Litbang Darma Yuhda => http://litbang.darmayudha.com
 - Ilmu Data Indonesia Website  => https://ilmudata.co.id
-- PPDB SMK Negeri Kehutanan Pekanbaru => https://ppdb.smkkehutananpekanbaru.sch.id/
+- PPDB SMK Negeri Kehutanan Pekanbaru => https://ppdb.smkkehutananpekanbaru.sch.id
+- Journal Prodi Bisnis Digital Universitas Pahlawan Tuanku Tambusai => https://journal.ilmudata.co.id/index.php/RIGGS
+- Website Program Studi Bisnis Digital Universitas Pahlawan Tuanku Tambusai => https://digital-business.universitaspahlawan.ac.id
 
 **Publication**
 - Scholar : https://scholar.google.com/citations?hl=en&user=STETijEAAAAJ
