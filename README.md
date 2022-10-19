@@ -12,8 +12,8 @@
 
 
 **Talking about Personal Stuffs:**
-
-- 🌱 I'm currently learning Laravel, matlab, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
+- 👨🏻‍💻 I'm currently work with Laravel framework
+- 🌱 I'm currently always learning Laravel, matlab, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
 
 
 **Languages and Frameworks:**  
