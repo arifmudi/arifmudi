@@ -13,7 +13,6 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I am Lecturer at Universitas Pahlawan Tuanku Tambusai, Bangkinang, Riau, Indonesia
 - 🌱 I'm currently learning Laravel, matlab, python with jupyter notebook (Machine learning, Deep Learning, Natural Language Processing, Data Mining, and Image Processing)
 
 
