@@ -29,6 +29,8 @@
 - PPDB SMK Negeri Kehutanan Pekanbaru => https://ppdb.smkkehutananpekanbaru.sch.id
 - Journal Prodi Bisnis Digital Universitas Pahlawan Tuanku Tambusai => https://journal.ilmudata.co.id/index.php/RIGGS
 - Website Program Studi Bisnis Digital Universitas Pahlawan Tuanku Tambusai => https://digital-business.universitaspahlawan.ac.id
+- Website Survey Lembaga Penjamin Mutu Universitas Pahlawan Tuanku Tambusai => http://survey.lpm.universitaspahlawan.ac.id
+- Website Survey Lembaga Penelitian dan Pengabdian Masyarakat Universitas Pahlawan Tuanku Tambusai => http://survey.lp2m.universitaspahlawan.ac.id/
 
 **Publication**
 - Scholar : https://scholar.google.com/citations?hl=en&user=STETijEAAAAJ
